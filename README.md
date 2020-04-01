@@ -20,6 +20,6 @@ In statistics, the logistic regression model is used to model the probability of
 ###### Some key points
 precision is the fraction of relevant instances among the retrieved instances, while recall is the fraction of the total amount of relevant instances that were actually retrieved
 
-<p align="center">
-  <img src="Batch.png" width="350" title="Definition">
-</p>
+* Batch gradient descent: Entire training data is taken so it takes alot of time in weight updates and makes smooth updates
+* Mini batch gradient descent: Subset of training data is taken so it takes better time to update weights and we can vary the batch size hence varying the noise in parameter update
+* Stochastic gradient descent: Single training sample is taken and makes noisy updates
