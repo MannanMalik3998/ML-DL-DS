@@ -1,6 +1,8 @@
 # ML-DL-DS
 Projects
 
+![Process](DS_Process.png)
+
 ![Cheatsheet](Cheatsheet_MachineLearning.png)
 ##### Deep Learning (DL)
 Deep Learning (DL) is an advancement of ML. Even though ML is super powerful for most applications, there are situations where ML leaves a lot to be desired. That is where deep learning steps in. It is generally believed that if your training dataset is relatively small, you go with ML. But if you have huge amounts of data on which you can train a model, and if the data has too many features, and if accuracy is super important (accuracy is always important though), you take the deep learning route.
