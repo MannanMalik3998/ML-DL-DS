@@ -1,6 +1,10 @@
 # ML-DL-DS
 Projects
 
+![Types of graph](TypesOfCharts.jpg)
+
+![DS vs ML](DS vs ML.jpg)
+
 ![Process](OverFit.png)
 
 ![Process](DS_Process.png)
