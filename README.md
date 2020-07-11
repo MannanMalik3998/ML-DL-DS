@@ -3,7 +3,7 @@ Projects
 
 ![Types of graph](TypesOfCharts.jpg)
 
-![DS vs ML](DS vs ML.jpg)
+
 
 ![Process](OverFit.png)
 
