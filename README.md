@@ -1,6 +1,8 @@
 # ML-DL-DS
 Projects
 
+![DEvsDS](DEvsDS.jpeg)
+
 ![Types of graph](TypesOfCharts.jpg)
 
 ![DSvsML](DSvsML.jpg)
